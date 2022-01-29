@@ -2,31 +2,9 @@
   Hi there 👋
 </p>
 
-<!--
-**Chatur27/Chatur27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![Chatur's github stats](https://github-readme-stats.vercel.app/api?username=roynatech2544&show_icons=true&theme=cobalt&count_private=true)](https://github.com/roynatech2544) 
--->
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roynatech2544&show_icons=true&theme=cobalt&count_private=true"/>
-</p>
-
-
-<p align="center" >   
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=roynatech2544&&show_icons=true&theme=radical"/>
-</p>
+![](https://github.com/roynatech2544/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/roynatech2544/github-stats/blob/master/generated/languages.svg)
 
 # ⚡ About Me
 I'm interested in android development. I'm in the Eureka Team
