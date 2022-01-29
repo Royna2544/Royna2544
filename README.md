@@ -1,9 +1,9 @@
 # Info
  Hi there 👋
-  
+<p align="center">
  <img align="left" src="https://raw.githubusercontent.com/roynatech2544/readme-generator/master/generated/languages.svg"/>
  <img align="right" src="https://raw.githubusercontent.com/roynatech2544/readme-generator/master/generated/overview.svg"/>
-
+</p>
 
 
 # ⚡ About Me
