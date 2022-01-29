@@ -1,10 +1,10 @@
 <p align="center">
   Hi there 👋
-</p>
-
+  
  <img align="left" src="https://raw.githubusercontent.com/roynatech2544/readme-generator/master/generated/languages.svg"/>
  <img align="right" src="https://raw.githubusercontent.com/roynatech2544/readme-generator/master/generated/overview.svg"/>
  
+</p>
 # ⚡ About Me
 I'm interested in android development. I'm in the Eureka Team
 I'm a ROM developer too for A20e
