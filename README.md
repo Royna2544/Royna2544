@@ -1,3 +1,4 @@
+# Info
 <p align="center">
   Hi there 👋
   
@@ -18,6 +19,10 @@ I'm a ROM developer too for A20e
 
 - A10 A20 A20e A30 A30s A40
 
+### Eureka ROMs Currently Active:
+
+- A10 A20 A20e A30 A40
+- 
 # 📫 How to reach me:
 
 [Telegram](https://t.me/roynatech)
