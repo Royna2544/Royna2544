@@ -11,7 +11,7 @@
 - I have r capabilites for Python, Go (Read (understand) code only)
 - I have Galaxy A90 5G (r3q - Based on SM8150) as my main phone, and Galaxy J2 Pro (j2y18lte - Based on MSM8917), Galaxy S7 (herolte - Based on Exynos8890) as backup phone currently.
 - Coming up: Lenovo P12!
-- I have a Lenovo G50-80, with Intel Core i5-5200U @ 2.2Ghz, with XeroLinux (kind of Arch) installed.
+- I have a Lenovo G50-80, with Intel Core i5-5200U @ 2.2Ghz, with debloated Win11 installed.
 
 # 🔭 My work
 - Exynos7885 based phones launched on 2019 (A10, A20, A20e, A30, A30s, A40) - https://github.com/eurekadevelopment
