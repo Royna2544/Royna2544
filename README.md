@@ -9,14 +9,15 @@
 - An Android developer who is interested on Android and average IT stuff.
 - I have rwx capabilties for C, C++, Java, Kotlin, Rust, AIDL. (Read (understand) code, Write code, run code)
 - I have r capabilites for Python, Go (Read (understand) code only)
-- I have Galaxy A90 5G (r3q - Based on SM8150) as my main phone, and Galaxy J2 Pro (j2y18lte - Based on MSM8917) as backup phone currently.
-- Coming up: Galaxy S7 (herolte) and Lenovo P12!
+- I have Galaxy A90 5G (r3q - Based on SM8150) as my main phone, and Galaxy J2 Pro (j2y18lte - Based on MSM8917), Galaxy S7 (herolte - Based on Exynos8890) as backup phone currently.
+- Coming up: Lenovo P12!
 - I have a Lenovo G50-80, with Intel Core i5-5200U @ 2.2Ghz, with XeroLinux (kind of Arch) installed.
 
 # 🔭 My work
 - Exynos7885 based phones launched on 2019 (A10, A20, A20e, A30, A30s, A40) - https://github.com/eurekadevelopment
 - J2 pro (aka j2y18lte) - https://github.com/msm8917-dev/
 - A51 4G (SM-A515XX) - https://github.com/A51-Development
+- S7 (herolte) - On my personal repos
  
 # 📫 How to reach me:
 [Telegram](https://t.me/roynatech)
