@@ -7,10 +7,10 @@
 
 # ⚡ About Me
 - An Android developer who is interested on Android and average IT stuff.
-- I have rwx capabilties for C, C++, Java, Kotlin, Rust, AIDL. (Read (understand) code, Write code, run code)
-- I have r capabilites for Python, Go (Read (understand) code only)
+- I can write average code for C, C++, Java, Kotlin, AIDL.
+- I can write Rust, python with Google's help (Not much depth knowledge)
 - I have Galaxy A90 5G (r3q - Based on SM8150) as my main phone, and Galaxy J2 Pro (j2y18lte - Based on MSM8917), Galaxy S7 (herolte - Based on Exynos8890) as backup phone currently, and Lenovo TB128FU (SDM680) tablet with GSI
-- I have a Lenovo G50-80, with Intel Core i5-5200U @ 2.2Ghz, with debloated Win11 installed.
+- I have a Lenovo G50-80, with Intel Core i5-5200U @ 2.2Ghz, with ArchLinux installed. ~~I use Arch btw~~
 
 # 🔭 My work
 - Exynos7885 based phones launched on 2019 (A10, A20, A20e, A30, A30s, A40) - https://github.com/eurekadevelopment
