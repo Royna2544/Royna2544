@@ -15,7 +15,7 @@
 # 🔭 My work
 - Exynos7885 based phones launched on 2019 (A10, A20, A20e, A30, A30s, A40) - https://github.com/eurekadevelopment
 - J2 pro (aka j2y18lte) - https://github.com/msm8917-dev/
-- A51 4G (SM-A515XX) - https://github.com/A51-Development
+- Exynos9611 2020 Phones - https://github.com/Exynos9611-Development
 - S7 (herolte) - On my personal repos
  
 # 📫 How to reach me:
