@@ -9,8 +9,8 @@
 - An Android developer who is interested on Android and average IT stuff.
 - I can write average code for C, C++, Java, Kotlin, AIDL, Go.
 - I can write Rust, Python with Google's help (Not much depth knowledge)
-- I have Galaxy A90 5G (r3q - SM8150) as my main phone, and Galaxy J2 Pro (j2y18lte - MSM8917), Galaxy S8+ (dream2lte - Exynos8895), Galaxy S7 (herolte - Exynos8890), Galaxy S6 (zerolte - Exynos7420), Lenovo Tab M10 Pro Gen 3 (tb128fu - SD680)
-- I have a Lenovo G50-80, with Intel Core i5-5200U @ 2.2Ghz, with Win11
+- I have Galaxy A90 5G (r3q - SM8150) as my main phone, and Galaxy J2 Pro (j2y18lte - MSM8917), Galaxy S8+ (dream2lte - Exynos8895), Galaxy S7 (herolte - Exynos8890), Galaxy S6 (zeroflte - Exynos7420), Lenovo Tab M10 Pro Gen 3 (tb128fu - SD680), Galaxy A6+ (2018) (a6plte - MSM8953, No screen)
+- I have a HP laptop with i3 5th gen, 8GB DDR3, 240GB SSD (SATA3), with Win11 Ghost spectre 
 
 # 🔭 My work
 - Exynos7885 based phones launched on 2019 (A10, A20, A20e, A30, A30s, A40) - https://github.com/eurekadevelopment
