@@ -7,7 +7,7 @@
 
 # ⚡ About Me
 - An Android developer who is interested on Android and average IT stuff.
-- I can write average code for C, C++, Java, Kotlin, AIDL, Go.
+- I can write average code for C, C++, Java, Kotlin, AIDL, GoLang.
 - I can write Rust, Python with Google's help (Not much depth knowledge)
 - I have Galaxy A90 5G (r3q - SM8150) as my main phone, Lenovo Tab M10 Pro Gen 3 (tb128fu - SD680 | SM6225), LG K10 (msm8916)
 - I have a HP laptop with i3 5th gen, 8GB DDR3, 240GB SSD (SATA3), with Win11 Ghost spectre 
