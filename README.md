@@ -9,7 +9,7 @@
 - An Android developer who is interested on Android and average IT stuff.
 - I can write average code for C, C++, Java, Kotlin, AIDL, GoLang. Rust, Python
 - My devices:
-  - Galaxy S22 (r0q - sm8450) (Main)
+  - Galaxy S24 Ultra (e3q - Snap8 Gen3) (Main)
   - Galaxy A90 5G (r3q - SM8150)
   - Lenovo Tab M10 Pro Gen 3 (tb128fu - SM6225)
   - Galaxy A30 (a30 - exynos7885)
