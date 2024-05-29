@@ -18,7 +18,7 @@
   - I'm learning:
     | Javascript | SQL | HTML5 | CSS | SCSS |
     | ---------- | --- | ----- | --- | ---- |
-    | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQL Lite"  alt="SQL Lite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>|
+    | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original.svg" title="CSS"  alt="CSS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/scss/scss-original.svg" title="SCSS"  alt="SCSS" width="55" height="55"/>|
 - My devices:
   - Galaxy S24 Ultra (e3q - Snap8 Gen3) (Main)
   - Galaxy A90 5G (r3q - SM8150)
