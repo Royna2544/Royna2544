@@ -18,7 +18,11 @@
   - I'm learning:
     | Javascript | SQL | HTML5 | CSS | SCSS |
     | ---------- | --- | ----- | --- | ---- |
-    | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML5" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/scss/scss-original.svg" title="SCSS"  alt="SCSS" width="55" height="55"/>|
+    | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML5" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS"  alt="SCSS" width="55" height="55"/>|
+   - I can write hello world:
+     | Rust | Golang |
+     | ---- | ------ |
+     | <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust"  alt="Rust" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/golang/golang-original.svg" title="Golang"  alt="Golang" width="55" height="55"/>|
 
 - My devices:
   - Galaxy S24 Ultra (e3q - Snap8 Gen3) (Main)
