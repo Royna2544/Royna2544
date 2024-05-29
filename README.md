@@ -22,7 +22,7 @@
    - I can write hello world:
      | Rust | Golang |
      | ---- | ------ |
-     | <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust"  alt="Rust" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/golang/golang-original.svg" title="Golang"  alt="Golang" width="55" height="55"/>|
+     | <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust"  alt="Rust" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang"  alt="Golang" width="55" height="55"/>|
 
 - My devices:
   - Galaxy S24 Ultra (e3q - Snap8 Gen3) (Main)
