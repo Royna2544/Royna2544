@@ -35,6 +35,7 @@
   - LG X4 (Some MTK)
   - Galaxy S7 (herolte - Exynos8890)
   - Galaxy J7 Pop (j7popelteskt - Exynos7870)
+  - Redmi Note 7 (lavender - sdm660)
   - (To be added, Galaxy M31)
 - My PCs:
   - i3-5005U, Intel HD Graphics 5500, 8GB DDR3, SATA3 256GB SSD, HP Laptop
