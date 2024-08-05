@@ -24,19 +24,41 @@
      | ---- | ------ |
      | <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust"  alt="Rust" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang"  alt="Golang" width="55" height="55"/>|
 
-- My devices:
-  - Galaxy S24 Ultra (e3q - Snap8 Gen3) (Main)
-  - Galaxy A90 5G (r3q - SM8150)
-  - Lenovo Tab M10 Pro Gen 3 (tb128fu - SM6225)
-  - Galaxy A30 (a30 - exynos7885)
-  - Galaxy S4 LTE-A (ks01lte - msm8974)
-  - Galaxy Grand (baffinvektt - smdk4x12)
-  - LG K10 (msm8916)
-  - LG X4 (Some MTK)
-  - Galaxy S7 (herolte - Exynos8890)
-  - Galaxy J7 Pop (j7popelteskt - Exynos7870)
-  - Redmi Note 7 (lavender - sdm660)
-  - (To be added, Galaxy M31)
+# 📌 My devices:
+
+- **Samsung Galaxy S24 Ultra**
+  - **SoC**: Qualcomm Snapdragon 8 Gen 3
+
+- **Samsung Galaxy A90 5G**
+  - **SoC**: Qualcomm Snapdragon 855 (SM8150)
+
+- **Lenovo Tab M10 Plus (3rd Gen)**
+  - **SoC**: Qualcomm Snapdragon 680 (SM6225)
+
+- **Samsung Galaxy A30**
+  - **SoC**: Exynos 7904 (Exynos 7885)
+
+- **Samsung Galaxy S4 LTE-A**
+  - **SoC**: Qualcomm Snapdragon 800 (MSM8974)
+
+- **Samsung Galaxy Grand**
+  - **SoC**: Exynos 4412 (smdk4x12)
+
+- **LG K10**
+  - **SoC**: Qualcomm Snapdragon 410 (MSM8916)
+
+- **LG X4**
+  - **SoC**: MediaTek MT6750
+
+- **Samsung Galaxy S7**
+  - **SoC**: Exynos 8890
+
+- **Samsung Galaxy J7 Pop**
+  - **SoC**: Exynos 7870
+
+- **Xiaomi Redmi Note 7**
+  - **SoC**: Qualcomm Snapdragon 660 (SDM660)
+
 - My PCs:
   - i3-5005U, Intel HD Graphics 5500, 8GB DDR3, SATA3 256GB SSD, HP Laptop
   - i5-13500H, Nvidia RTX 4050 Laptop GPU, 16GB DDR4, NVMe M.2 512GB SSD, 144hz Display, HP Laptop
