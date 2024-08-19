@@ -29,9 +29,6 @@
 - **Samsung Galaxy S24 Ultra**
   - **SoC**: Qualcomm Snapdragon 8 Gen 3
 
-- **Samsung Galaxy A90 5G**
-  - **SoC**: Qualcomm Snapdragon 855 (SM8150)
-
 - **Lenovo Tab M10 Plus (3rd Gen)**
   - **SoC**: Qualcomm Snapdragon 680 (SM6225)
 
